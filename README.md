@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaiVishwa
+- 👋 Hi, I’m Sai Vishwa
 - 👀 I’m interested working in **Machine learning and AI projects**
-- 🌱 I’m currently learning Data **Science**
+- 🌱 I’m currently learning **Data Science**
 - 💞️ I’m looking to collaborate on **Machine learning projects**
 - 📫 Contact : saivishwababu@gmail.com 
 
