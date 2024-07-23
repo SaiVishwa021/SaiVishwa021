@@ -4,15 +4,13 @@
 I am a passionate and dedicated professional with a strong interest in **Data Science**, **Data Analytics**, and **Machine Learning**. My goal is to leverage data-driven insights to solve complex problems and drive impactful solutions.
 
 ## 🚀 Skills
-- **Data Science**: Python, R, SQL, Machine Learning, Deep Learning, NLP
-- **Data Analytics**: Power BI, Tableau, Excel, Data Visualization, Statistical Analysis
-- **Programming**: Python, JavaScript, C
-- **Web Development**: Node.js, React.js, Next.js
+- **Data Science**: Python, SQL, Machine Learning, Deep Learning.
+- **Data Analytics**: Power BI, Excel, Data Visualization, Statistical Analysis.
+- **Programming**: Python, Java, C.
 
 ## 💼 Experience
-- **Intern at Yuyiii Stays and Travels Pvt Ltd**: Worked on data entry and research analysis.
-- **Chief Advisor in 'The Literary and Debating Society'**
 - **Runner-up in the Agritech Hackathon 2022**
+- **Chief Advisor in 'The Literary and Debating Society'**
 - **Finalist in Bits Hack 2023**
 
 ## 🌟 Achievements
