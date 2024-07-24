@@ -8,12 +8,10 @@ I am a passionate and dedicated professional with a strong interest in **Data Sc
 - **Data Analytics**: Power BI, Excel, Data Visualization, Statistical Analysis.
 - **Programming**: Python, Java, C.
 
-## 💼 Experience
+## 🌟 Achievements
 - **Runner-up in the Agritech Hackathon 2022**
 - **Chief Advisor in 'The Literary and Debating Society'**
 - **Finalist in Bits Hack 2023**
-
-## 🌟 Achievements
 - **National Champion** in the National Level Abacus Competition 2014
 - **Runner-up** in the State Level Chess Championship 2018
 - **2nd Runner-up** in CODE CHEF - BIT (Algorithm Arcade) 2023
