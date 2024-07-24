@@ -1,8 +1,4 @@
-# 👋 Hi, I'm 
-
-
-![image](https://github.com/user-attachments/assets/17054fff-bbba-45e5-9353-490ff4d2f686)
-
+# 👋 Hi, I'm Sai Vishwa
 
 ## 👀 About Me
 I am a passionate and dedicated professional with a strong interest in **Data Science**, **Data Analytics**, and **Machine Learning**. My goal is to leverage data-driven insights to solve complex problems and drive impactful solutions.
