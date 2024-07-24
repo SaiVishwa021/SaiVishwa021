@@ -1,7 +1,7 @@
 # 👋 Hi, I'm 
 
 
-![image](https://github.com/user-attachments/assets/6b4fa777-073f-49b4-b170-32154e3e5629)
+![image](https://github.com/user-attachments/assets/17054fff-bbba-45e5-9353-490ff4d2f686)
 
 
 ## 👀 About Me
