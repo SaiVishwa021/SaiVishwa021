@@ -44,7 +44,7 @@ Let's connect and create something amazing together! 🌟
 ---
 
 ## 🤝 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saivishwa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-vishwa-b-36203a251/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SaiVishwaB)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/saivishwa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://l.instagram.com/?u=https%3A%2F%2Fmy.manychat.com%2Fr%3Fact%3D10eb8c6be351ccf013cbab4db62b0927%26u%3D1211106213%26p%3D1283465%26h%3Dc28b270b85&e=AT3smTrpUjPgnBoaQc84zRaCwx54D7lvfcwZOrAjDQAyzC5Hu18qFrNSSkW_Ea1bCjqI9oNpumg2waYjKHO9WrdrUF4dAmLK1z0HR2pYBf8r47hs2YM39A&s=0)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivishwababu@gmail.com)
