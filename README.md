@@ -1,9 +1,5 @@
 Hi there! 👋 I'm
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi%20there!%20I'm%20-FF6F00?style=flat&logoColor=white" alt="Hi there! I'm">
-</p>
-
 <h1 align="center" style="font-size: 60px;">SAI VISHWA</h1>
 
 
