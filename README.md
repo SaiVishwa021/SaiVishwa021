@@ -66,19 +66,18 @@ Currently, I’m diving into the fascinating world of Generative AI and Prompt E
 ---
 
 ## ✨ Fun Facts:
-- I once solved a Rubik’s Cube in under 2 minutes! 🧩
 - I’m a huge fan of chess and strategy games. ♟️
 - I love diving deep into the world of AI, sometimes to the point where I lose track of time! 🕒
 
 ---
 
 ## 📝 Blog/Content:
-Check out my [Blog](#) where I share insights on Data Science, Machine Learning, and more! 📝
+Check out my [Blog](https://dev.to/saivishwa) where I share insights on Data Science, Machine Learning, and more! 📝
 
 ---
 
 ## 📄 Resume:
-You can download my [Resume](#) here. 📄
+You can download my [Resume](https://drive.google.com/file/d/1qH5RcbVgv-t1IDVj9rfQPzUM5T78v6Kh/view?usp=sharing) here. 📄
 
 ---
 
@@ -87,11 +86,9 @@ You can download my [Resume](#) here. 📄
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
 <p align="center">Made with ❤️ by Sai Vishwa</p>
 <p align="center"><img src="https://img.shields.io/github/followers/SaiVishwa021?style=social" alt="GitHub Followers"></p>
-s
