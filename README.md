@@ -1,4 +1,13 @@
-Hi there! 👋 I'm **SAI VISHWA** , your friendly neighborhood Data Scientist and Data Analyst from India. 🌍
+Hi there! 👋 I'm
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20there!%20I'm%20-FF6F00?style=flat&logoColor=white" alt="Hi there! I'm">
+</p>
+
+<h1 align="center" style="font-size: 60px;">SAI VISHWA</h1>
+
+
+your friendly neighborhood Data Scientist and Data Analyst from India. 🌍
 
 🚀 I’m on a never-ending quest to explore new technologies, unravel the mysteries of data, and level up my skills! Whether it's crunching numbers, decoding patterns, or diving deep into algorithms, I'm all about turning complex data into meaningful insights. 🧠
 
