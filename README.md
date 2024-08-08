@@ -1,7 +1,4 @@
-Hi there! 👋 I'm
-
-<h1 align="center" style="font-size: 60px;">SAI VISHWA</h1>
-
+<h1 align="center" style="font-size: 60px;">Hi there! 👋 I'm SAI VISHWA</h1>
 
 your friendly neighborhood Data Scientist and Data Analyst from India. 🌍
 
