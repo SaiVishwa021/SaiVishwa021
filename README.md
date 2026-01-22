@@ -49,7 +49,6 @@ Currently, I’m diving into the fascinating world of Generative AI and Prompt E
 
 ## 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVishwa021&show_icons=true&theme=radical" alt="Sai Vishwa's GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVishwa021&layout=compact&theme=radical" alt="Most Used Languages">
 </p>
 
