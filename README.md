@@ -33,11 +33,8 @@ I enjoy building predictive models, exploring deep learning, and working on end-
 
 ## Achievements
 - Runner-up – **Agritech Hackathon 2022**
-- Finalist – **BITS Hack 2023**
 - 2nd Runner-up – **CodeChef BIT (Algorithm Arcade) 2023**
 - Chief Advisor – **The Literary and Debating Society**
-- Runner-up – **State Level Chess Championship 2018**
-- National Champion – **National Level Abacus Competition 2014**
 
 ---
 
