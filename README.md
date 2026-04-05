@@ -54,9 +54,3 @@ I enjoy building predictive models, exploring deep learning, and working on end-
 📄 [Download Resume](https://drive.google.com/file/d/1qH5RcbVgv-t1IDVj9rfQPzUM5T78v6Kh/view?usp=sharing)
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/SaiVishwa021?style=social" />
-</p>
-
-<p align="center">© Sai Vishwa</p>
