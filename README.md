@@ -41,14 +41,6 @@ I enjoy building predictive models, exploring deep learning, and working on end-
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiVishwa021&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVishwa021&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sai-vishwa-b-36203a251/">
