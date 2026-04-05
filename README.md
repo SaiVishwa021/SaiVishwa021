@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sai Vishwa</h1>
-<h3 align="center">Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi, I'm Sai Vishwa Babu</h1>
+<h3 align="center">Masters Student (DSAI) | Saarland University </h3>
 
 <p align="center">
 I’m a Data Science and Machine Learning enthusiast passionate about solving real-world problems using data-driven approaches.  
