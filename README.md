@@ -45,12 +45,6 @@ Currently, I’m diving into the fascinating world of Generative AI and Prompt E
 - ♟️ **Runner-up** in the State Level Chess Championship 2018
 - 🥉 **2nd Runner-up** in CODE CHEF - BIT (Algorithm Arcade) 2023
 
----
-
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVishwa021&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
 
 ---
 
